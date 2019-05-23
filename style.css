@@ -25,6 +25,11 @@ h4{
     font-weight: 500;
 }
 
+h5{
+    font-size: 12pt;
+    margin-left: 20px;
+}
+
 #home_overlay{
     color: white;
     margin-right: 20px;
